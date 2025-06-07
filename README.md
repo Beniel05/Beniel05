@@ -28,11 +28,6 @@
   <img src="https://streak-stats.demolab.com?user=Beniel05&theme=tokyonight" alt="Beniel's GitHub Streak" />
 </p>
 
-## 🧠 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Beniel05&theme=tokyonight" alt="Contribution Graph" />
-</p>
-
 ---
 
 <h2 style="border-bottom:none; padding-bottom:0;">🌐 Connect With Me</h2>
