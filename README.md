@@ -28,18 +28,27 @@
   <img src="https://streak-stats.demolab.com?user=Beniel05&theme=tokyonight" alt="Beniel's GitHub Streak" />
 </p>
 
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/beniel-ebenezer/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
-  <a href="mailto:benielebenezer@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=benielebenezer@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="gmail" height="30" width="40" /></a>
-  <a href="https://github.com/beniel-ebenezer"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="github" height="30" width="40" /></a>
+## 🧠 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Beniel05&theme=tokyonight" alt="Contribution Graph" />
 </p>
 
 ---
 
-<!-- Optional: fun quote -->
+<h2 style="border-bottom:none; padding-bottom:0;">🌐 Connect With Me</h2>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/beniel-ebenezer/" target="_blank" rel="noopener noreferrer" title="LinkedIn">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" style="fill:white; filter: invert(1);" />
+  </a>
+  <a href="mailto:benielebenezer@gmail.com" target="_blank" rel="noopener noreferrer" title="Email">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="gmail" height="30" width="40" style="fill:white; filter: invert(1);" />
+  </a>
+  <a href="https://github.com/beniel-ebenezer" target="_blank" rel="noopener noreferrer" title="GitHub">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="github" height="30" width="40" style="fill:white; filter: invert(1);" />
+  </a>
+</p>
+
+---
+
 > “Code. Debug. Repeat. Coffee helps ☕” – Me
