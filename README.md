@@ -23,10 +23,11 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=beniel-ebenezer&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Beniel05&show_icons=true&theme=tokyonight" alt="Beniel's GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=beniel-ebenezer&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Beniel05&theme=tokyonight" alt="Beniel's GitHub Streak" />
 </p>
+
 
 ---
 
