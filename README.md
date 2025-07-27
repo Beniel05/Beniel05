@@ -33,16 +33,17 @@
 <h2 style="border-bottom:none; padding-bottom:0;">🌐 Connect With Me</h2>
 
 <p align="left">
-  <a href="[https://www.linkedin.com/in/beniel-ebenezer/](https://www.linkedin.com/in/benielebenezer/)" target="_blank" rel="noopener noreferrer" title="LinkedIn">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" style="fill:white; filter: invert(1);" />
+  <a href="https://www.linkedin.com/in/benielebenezer/" target="_blank" rel="noopener noreferrer" title="LinkedIn">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" style="filter: invert(1);" />
   </a>
   <a href="mailto:benielworks@gmail.com" target="_blank" rel="noopener noreferrer" title="Email">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="gmail" height="30" width="40" style="fill:white; filter: invert(1);" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="gmail" height="30" width="40" style="filter: invert(1);" />
   </a>
-  <a href="[https://github.com/beniel-ebenezer](https://github.com/Beniel05)" target="_blank" rel="noopener noreferrer" title="GitHub">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="github" height="30" width="40" style="fill:white; filter: invert(1);" />
+  <a href="https://github.com/Beniel05" target="_blank" rel="noopener noreferrer" title="GitHub">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="github" height="30" width="40" style="filter: invert(1);" />
   </a>
 </p>
+
 
 ---
 
