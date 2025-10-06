@@ -24,8 +24,9 @@ Currently, I’m focused on mastering **Java**, **DSA**, and the **MERN stack** 
 <p align="center">
   <!-- GitHub Stats Card -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Beniel05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <!-- GitHub Streak Card (updated API) -->
-  <img height="180em" src="https://streak-stats.demolab.com?user=Beniel05&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+  <!-- GitHub Streak Card -->
+  <img height="180em" src="https://streak-stats.demolab.com?user=Beniel05&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -38,7 +39,7 @@ Currently, I’m focused on mastering **Java**, **DSA**, and the **MERN stack** 
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,react,nodejs,express,mongodb,git,github,vscode,reactnative" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,java,git,github,bash,vscode,reactnative" alt="Tech Stack" />
 </p>
 
 ---
@@ -53,7 +54,7 @@ Currently, I’m focused on mastering **Java**, **DSA**, and the **MERN stack** 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" height="30" width="40" />
   </a>
   <a href="https://github.com/Beniel05" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" alt="GitHub" height="30" width="40" style="filter: invert(100%);" />
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="30" width="40" />
   </a>
 </p>
 
