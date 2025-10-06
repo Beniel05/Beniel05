@@ -9,8 +9,8 @@
 
 ### 🧭 About Me
 
-I’m an aspiring **Full Stack Developer** with a deep interest in creating scalable, user-focused applications.  
-Currently, I’m focused on mastering **Java**, **DSA**, and the **MERN stack** to build robust web and mobile experiences.
+I’m an aspiring **Full Stack Developer** with a deep interest in building scalable, efficient, and user-focused applications.  
+Currently, I’m focused on mastering **Java**, **DSA**, and the **MERN stack** to develop high-quality web and mobile solutions.
 
 - 🌱 Learning **Java**, **DSA**, **Frontend & Backend using MERN**
 - 💻 Exploring **React Native** for mobile app development
@@ -22,11 +22,14 @@ Currently, I’m focused on mastering **Java**, **DSA**, and the **MERN stack** 
 ### 📊 GitHub Stats
 
 <p align="center">
+  <!-- GitHub Stats Card -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Beniel05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Beniel05&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <!-- GitHub Streak Card (updated API) -->
+  <img height="180em" src="https://streak-stats.demolab.com?user=Beniel05&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
+  <!-- GitHub Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Beniel05&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
@@ -50,7 +53,7 @@ Currently, I’m focused on mastering **Java**, **DSA**, and the **MERN stack** 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" height="30" width="40" />
   </a>
   <a href="https://github.com/Beniel05" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="30" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" alt="GitHub" height="30" width="40" style="filter: invert(100%);" />
   </a>
 </p>
 
