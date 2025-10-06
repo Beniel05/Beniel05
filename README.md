@@ -1,55 +1,59 @@
-<h1 align="center">Hi 👋, I'm Beniel Ebenezer J</h1>
-<h3 align="center">Aspiring Full Stack Developer | Passionate Coder | BSc Computer Science Student</h3>
+<h1 align="center">👋 Hi, I'm Beniel Ebenezer J</h1>
+<h3 align="center">Aspiring Full Stack Developer | Passionate Coder | B.Sc. Computer Science Student</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Beniel05&label=Profile%20views&color=0e75b6&style=flat" alt="Beniel05" />
+  <img src="https://komarev.com/ghpvc/?username=Beniel05&label=Profile%20Views&color=0e75b6&style=flat" alt="Beniel05" />
 </p>
 
 ---
 
-- 🌱 I’m currently learning **Java, HTML/CSS/JS, Git & GitHub**
-- 💻 Building my **portfolio** and small projects
-- 📫 How to reach me: **benielworks@gmail.com**
-- 🧠 Fun Fact: I love learning from **YouTube, Udemy**, and coding late nights 💡
+### 🧭 About Me
+
+I’m an aspiring **Full Stack Developer** with a deep interest in creating scalable, user-focused applications.  
+Currently, I’m focused on mastering **Java**, **DSA**, and the **MERN stack** to build robust web and mobile experiences.
+
+- 🌱 Learning **Java**, **DSA**, **Frontend & Backend using MERN**
+- 💻 Exploring **React Native** for mobile app development
+- ⚙️ Practicing **Git & GitHub** for version control and collaboration
+- 📫 Reach me at **benielebenezer@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,git,github,vscode" />
-</p>
+### 📊 GitHub Stats
 
----
-
-## 📊 GitHub Stats
 <p align="center">
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Beniel05&show_icons=true&theme=tokyonight" alt="Beniel05's GitHub Stats" />
-  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Beniel05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Beniel05&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-  <!-- GitHub Streak Card -->
-  <img src="https://streak-stats.demolab.com?user=Beniel05&theme=tokyonight" alt="Beniel05's GitHub Streak" />
-  <br />
-
-  <!-- GitHub Contribution Graph -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=Beniel05&theme=react-dark" alt="Beniel05's GitHub Activity Graph" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Beniel05&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/benielebenezer/" target="_blank" rel="noopener noreferrer" title="LinkedIn">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,react,nodejs,express,mongodb,git,github,vscode,reactnative" alt="Tech Stack" />
+</p>
+
+---
+
+### 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/benielebenezer/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="mailto:benielworks@gmail.com" target="_blank" rel="noopener noreferrer" title="Email">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Email" height="30" width="40" />
+  <a href="mailto:benielebenezer@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" height="30" width="40" />
   </a>
-  <a href="https://github.com/Beniel05" target="_blank" rel="noopener noreferrer" title="GitHub">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="GitHub" height="30" width="40" />
+  <a href="https://github.com/Beniel05" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="30" width="40" />
   </a>
 </p>
 
 ---
 
-> “Code. Debug. Repeat. Coffee helps ☕” – Me
+> “Write code that lasts longer than trends. Build things that teach you something every day.” — *Beniel Ebenezer J*
