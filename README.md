@@ -39,7 +39,7 @@ Currently, I’m focused on mastering **Java**, **DSA**, and the **MERN stack** 
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,java,git,github,bash,vscode,reactnative" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,java,git,github,bash,vscode,reactnative](https://skillicons.dev/icons?i=java,idea,mongodb,express,react,nodejs,mysql,postgresql,bash,git,github,vscode,html,css,javascript,jquery,bootstrap,tailwind" alt="Tech Stack" />
 </p>
 
 ---
