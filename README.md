@@ -9,12 +9,14 @@
 
 ### 🧭 About Me
 
-I’m an aspiring **Full Stack Developer** with a deep interest in building scalable, efficient, and user-focused applications.  
-Currently, I’m focused on mastering **Java**, **DSA**, and the **MERN stack** to develop high-quality web and mobile solutions.
+I’m an aspiring Full Stack Developer with a deep interest in building scalable, efficient, and user-focused applications.
+Currently, I’m focused on mastering **Java**, **DSA**, and the **MERN** stack to develop high-quality web and mobile solutions.
 
+- ⌨️ **Senior** Grade **Typist** – First Class with Distinction (2023)
 - 🌱 Learning **Java**, **DSA**, **Frontend & Backend using MERN**
-- 💻 Exploring **React Native** for mobile app development
+- 🗄️ Also exploring relational database management systems like **SQL** and **PostgreSQL**
 - ⚙️ Practicing **Git & GitHub** for version control and collaboration
+- 📱 Planning to learn **React Native** after completing the MERN stack
 - 📫 Reach me at **benielebenezer@gmail.com**
 
 ---
