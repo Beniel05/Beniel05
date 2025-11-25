@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Beniel Ebenezer J</h1>
+<h1 align="center">👋 Hi, I'm Beniel</h1>
 <h3 align="center">Aspiring Full Stack Developer | Passionate Coder | B.Sc. Computer Science Student</h3>
 
 <p align="center">
