@@ -32,8 +32,8 @@ Currently, I’m focused on mastering **Java**, **DSA**, and the **MERN** stack 
 
   <!-- ✅ CARD 2 — GITHUB STREAK STATS (OFFICIAL STABLE SOURCE) -->
   <img height="180em"
-       alt="Beniel GitHub Streak"
-       src="https://streak-stats.demolab.com/?user=Beniel05&theme=tokyonight&hide_border=true" />
+     alt="Beniel GitHub Streak"
+     src="https://github-readme-streak-stats.herokuapp.com/?user=Beniel05&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
