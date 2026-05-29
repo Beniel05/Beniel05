@@ -50,7 +50,7 @@ Currently, I’m focused on mastering **Java**, **DSA**, and the **MERN** stack 
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,idea,mongodb,express,react,nodejs,mysql,postgresql,bash,git,github,vscode,html,css,javascript,jquery,bootstrap,tailwind,npm,linux" alt="Beniel Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=java,eclipse,idea,mongodb,express,react,nodejs,mysql,postgresql,bash,git,github,vscode,html,css,javascript,jquery,bootstrap,tailwind,npm,linux" alt="Beniel Tech Stack" />
 </p>
 
 ---
