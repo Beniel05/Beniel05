@@ -1,5 +1,5 @@
-<h1 align="center">Hey, I'm Beniel</h1>
-<h3 align="center">Aspiring Full Stack Developer • MERN | DSA | Java • Learning Every Day</h3>
+<h1 align="center">Hey, I'm Beniel Ebenezer 👋</h1>
+<h3 align="center">Aspiring Java Full Stack Developer • Spring Boot • DSA • Building and Learning Every Day</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Beniel05&label=Profile%20Views&color=0e75b6&style=flat" alt="Beniel Profile Views" />
@@ -9,15 +9,17 @@
 
 ### 🧭 About Me
 
-I’m an aspiring Full Stack Developer with a deep interest in building scalable, efficient, and user-focused applications.  
-Currently, I’m focused on mastering **Java**, **DSA**, and the **MERN** stack to develop high-quality web and mobile solutions.
+I’m an aspiring Full Stack Developer with a deep interest in building scalable, efficient, and user-focused applications.
 
+Currently, I'm focused on mastering **Java Full Stack Development** with a strong emphasis on **backend engineering** using **Spring Boot**, **REST APIs**, **SQL**, and modern development tools. I'm also strengthening my problem-solving skills through **Data Structures and Algorithms**.
+
+- 🎓 B.Sc Computer Science Graduate
 - ⌨️ **Senior** Grade **Typist** – First Class with Distinction (2023)
-- 🌱 Currently learning **Java**, **DSA**, **Frontend & Backend using MERN**
+- 🌱 Currently learning **Java**, **Spring Boot**, **MySQL**, **REST APIs**, and **DSA**.
 - ⚙️ Practicing **Git & GitHub** for version control and collaboration
-- 🗄️ Familiar with **SQL basics**; planning to explore **PostgreSQL** as part of backend development
-- 📱 Planning to learn **React Native** after completing the MERN stack
-- 🏫 Gained foundational knowledge in **Cloud Computing**, **IoT**, and **C# & .NET** through academic coursework
+- 🗄️ Working with **MySQL** and exploring database design concepts
+- 📚 Learning software engineering fundamentals, clean code, and backend architecture
+- 🏫 Gained foundational knowledge in **Cloud Computing**, **Computer Networks**, and **DBMS** through academic coursework
 - 📫 Reach me at **benielebenezer@gmail.com**
 
 ---
@@ -47,10 +49,30 @@ Currently, I’m focused on mastering **Java**, **DSA**, and the **MERN** stack 
 
 ---
 
+### 🎯 Current Learning Journey
+
+```text
+Java
+↓
+OOP
+↓
+DSA
+↓
+Spring Boot
+↓
+REST APIs
+↓
+Hibernate / JPA
+↓
+MySQL
+↓
+Full Stack Projects
+```
+
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,eclipse,idea,mongodb,express,react,nodejs,mysql,postgresql,bash,git,github,vscode,html,css,javascript,jquery,bootstrap,tailwind,npm,linux" alt="Beniel Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=java,eclipse,spring,maven,idea,mysql,git,github,vscode,html,css,js,mongodb,express,react,nodejs,postgresql,bash,jquery,bootstrap,tailwind,npm" alt="Beniel Tech Stack"/>
 </p>
 
 ---
@@ -71,4 +93,5 @@ Currently, I’m focused on mastering **Java**, **DSA**, and the **MERN** stack 
 
 ---
 
-> “Write code that lasts longer than trends. Build things that teach you something every day.” — *Beniel Ebenezer J*
+> "Write code that lasts longer than trends. Build things that teach you something every day."
+> "Consistency compounds. Small progress every day becomes expertise over time."
