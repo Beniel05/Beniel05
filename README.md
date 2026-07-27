@@ -14,12 +14,12 @@ I’m an aspiring Full Stack Developer with a deep interest in building scalable
 Currently, I'm focused on mastering **Java Full Stack Development** with a strong emphasis on **backend engineering** using **Spring Boot**, **REST APIs**, **SQL**, and modern development tools. I'm also strengthening my problem-solving skills through **Data Structures and Algorithms**.
 
 - 🎓 B.Sc Computer Science Graduate
-- ⌨️ **Senior** Grade **Typist** – First Class with Distinction (2023)
+- ⌨️ **Senior** Grade **Typist** – First Class with Distinction (2023).
 - 🌱 Currently learning **Java**, **Spring Boot**, **MySQL**, **REST APIs**, and **DSA**.
-- ⚙️ Practicing **Git & GitHub** for version control and collaboration
-- 🗄️ Working with **MySQL** and exploring database design concepts
-- 📚 Learning software engineering fundamentals, clean code, and backend architecture
-- 🏫 Gained foundational knowledge in **Cloud Computing**, **Computer Networks**, and **DBMS** through academic coursework
+- ⚙️ Practicing **Git & GitHub** for version control and collaboration.
+- 🗄️ Working with **MySQL** and exploring database design concepts.
+- 📚 Learning software engineering fundamentals, clean code, and backend architecture.
+- 🏫 Gained foundational knowledge in **Cloud Computing**, **Computer Networks**, and **DBMS** through academic coursework.
 - 📫 Reach me at **benielebenezer@gmail.com**
 
 ---
