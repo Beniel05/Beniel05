@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Beniel Ebenezer 👋</h1>
-<h3 align="center">Aspiring Java Full Stack Developer • Spring Boot • DSA • Building and Learning Every Day</h3>
+<h3 align="center">Aspiring Full Stack Developer • Spring Boot • DSA • Building and Learning Every Day</h3>
  
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Beniel05&label=Profile%20Views&color=0e75b6&style=flat" alt="Beniel Profile Views" />
