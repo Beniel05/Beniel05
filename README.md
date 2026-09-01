@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Beniel Ebenezer 👋</h1>
-<h3 align="center">Aspiring Full Stack Developer • Spring Boot • DSA • Building and Learning Every Day</h3>
- 
+<h3 align="center">Full Stack Developer • MERN • Java Full Stack • DSA • Building and Learning Every Day</h3>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Beniel05&label=Profile%20Views&color=0e75b6&style=flat" alt="Beniel Profile Views" />
 </p>
@@ -9,24 +9,25 @@
 
 ### 🧭 About Me
 
-I’m an aspiring Full Stack Developer with a deep interest in building scalable, efficient, and user-focused applications.
+I’m a Full Stack Developer with hands-on knowledge of the **MERN Stack**, currently expanding my skills into **Java Full Stack Development**.
 
-Currently, I'm focused on mastering **Java Full Stack Development** with a strong emphasis on **backend engineering** using **Spring Boot**, **REST APIs**, **SQL**, and modern development tools. I'm also strengthening my problem-solving skills through **Data Structures and Algorithms**.
-
-- 🎓 B.Sc Computer Science Graduate
-- ⌨️ **Senior** Grade **Typist** – First Class with Distinction (2023).
-- 🌱 Currently learning **Java**, **Spring Boot**, **MySQL**, **REST APIs**, and **DSA**.
-- ⚙️ Practicing **Git & GitHub** for version control and collaboration.
-- 🗄️ Working with **MySQL** and exploring database design concepts.
-- 📚 Learning software engineering fundamentals, clean code, and backend architecture.
-- 🏫 Gained foundational knowledge in **Cloud Computing**, **Computer Networks**, and **DBMS** through academic coursework.
-- 📫 Reach me at **benielebenezer@gmail.com**
+* 🎓 B.Sc Computer Science Graduate
+* ⌨️ **Senior** Grade **Typist** – First Class with Distinction (2023).
+* ⚛️ **MERN Stack** – MongoDB, Express.js, React, and Node.js.
+* 🌱 Currently learning **Java Full Stack Development**, including **Java, Spring Boot, REST APIs, Hibernate / JPA, and MySQL**.
+* 🧠 Strengthening my problem-solving skills through **Data Structures and Algorithms**.
+* ⚙️ Practicing **Git & GitHub** for version control and collaboration.
+* 🗄️ Working with **MySQL** and exploring database design concepts.
+* 📚 Learning software engineering fundamentals, clean code, and backend architecture.
+* 🏫 Gained foundational knowledge in **Cloud Computing**, **Computer Networks**, and **DBMS** through academic coursework.
+* 📫 Reach me at **[benielebenezer@gmail.com](mailto:benielebenezer@gmail.com)**
 
 ---
 
 ### 📊 GitHub Stats
 
 <!-- ✅ CARD 1 — MAIN GITHUB STATS (SELF-HOSTED ON VERCEL) -->
+
 <p align="center">
   <img height="180em"
        alt="Beniel GitHub Statistics"
@@ -34,6 +35,7 @@ Currently, I'm focused on mastering **Java Full Stack Development** with a stron
 </p>
 
 <!-- ✅ CARD 2 — GITHUB STREAK STATS (OFFICIAL STABLE SOURCE) -->
+
 <p align="center">
   <img height="180em"
        alt="Beniel GitHub Streak"
@@ -41,6 +43,7 @@ Currently, I'm focused on mastering **Java Full Stack Development** with a stron
 </p>
 
 <!-- ✅ CARD 3 — GITHUB ACTIVITY GRAPH (OFFICIAL STABLE SOURCE) -->
+
 <p align="center">
   <img
        alt="Beniel GitHub Activity Graph"
@@ -52,6 +55,8 @@ Currently, I'm focused on mastering **Java Full Stack Development** with a stron
 ### 🎯 Current Learning Journey
 
 ```text
+MERN Stack
+↓
 Java
 ↓
 OOP
@@ -66,7 +71,7 @@ Hibernate / JPA
 ↓
 MySQL
 ↓
-Full Stack Projects
+Java Full Stack Projects
 ```
 
 ### 🛠️ Tech Stack
